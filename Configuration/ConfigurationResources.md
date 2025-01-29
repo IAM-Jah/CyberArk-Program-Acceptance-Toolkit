@@ -27,9 +27,3 @@ This document provides a curated list of configuration-related resources for Cyb
 **Target Audience:** Administrators, Developers, IT Teams
 
 ---
-
-## Community and Third-Party Resources
-
-### []()
-**Description:**
-**Target Audience:**
