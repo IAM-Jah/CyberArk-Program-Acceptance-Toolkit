@@ -44,55 +44,55 @@
    - **CyberArk Resources**:
 
 ### [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
-    - *Description*: Protects consumer privacy rights in California.
-    - **CyberArk Resources**:
+   - *Description*: Protects consumer privacy rights in California.
+   - **CyberArk Resources**:
 
 ### [Center for Internet Security (CIS) Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-    - *Description*: Industry-recognized best practices for cybersecurity.
-    - **CyberArk Resources**:
+   - *Description*: Industry-recognized best practices for cybersecurity.
+   - **CyberArk Resources**:
 
 ## Global Compliance Standards
 
 ### [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
-    - *Description*: Protects data privacy across the European Union.
-    - **CyberArk Resources**:
+   - *Description*: Protects data privacy across the European Union.
+   - **CyberArk Resources**:
       - [CyberArk Corporate Security White Paper: Standards and Practices](https://www.cyberark.com/resources/white-papers/cyberark-corporate-security-white-paper-standards-and-practices)
 
 ### [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
-    - *Description*: International standard for information security management.
-    - **CyberArk Resources**:
+   - *Description*: International standard for information security management.
+   - **CyberArk Resources**:
       - [Compliance at CyberArk](https://www.cyberark.com/trust/compliance/)
 
 ### [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents)
-    - *Description*: UK-specific privacy regulations aligned with GDPR.
-    - **CyberArk Resources**:
+   - *Description*: UK-specific privacy regulations aligned with GDPR.
+   - **CyberArk Resources**:
 
 ### [APRA CPS 234 (Australian Prudential Regulation Authority)](https://www.apra.gov.au/sites/default/files/cps_234_july_2019_for_public_release.pdf)
-    - *Description*: Governs cybersecurity for financial institutions in Australia.
-    - **CyberArk Resources**:
+   - *Description*: Governs cybersecurity for financial institutions in Australia.
+   - **CyberArk Resources**:
 
 ### [Singapore Personal Data Protection Act (PDPA)](https://sso.agc.gov.sg/Act/PDPA2012)
-    - *Description*: Regulates data privacy in Singapore.
-    - **CyberArk Resources**:
+   - *Description*: Regulates data privacy in Singapore.
+   - **CyberArk Resources**:
 
 ## Industry-Specific Standards
 
 ### [Criminal Justice Information Services (CJIS) Security Policy](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center)
-    - *Description*: Standards for handling criminal justice information in the U.S.
-    - **CyberArk Resources**:
+   - *Description*: Standards for handling criminal justice information in the U.S.
+   - **CyberArk Resources**:
 
 ### [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/)
-    - *Description*: Ensures secure cloud adoption for federal agencies.
-    - **CyberArk Resources**:
+   - *Description*: Ensures secure cloud adoption for federal agencies.
+   - **CyberArk Resources**:
 
 ### [North American Electric Reliability Corporation Critical Infrastructure Protection (NERC CIP)](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)
-    - *Description*: Standards for securing electric grid infrastructure in North America.
-    - **CyberArk Resources**:
+   - *Description*: Standards for securing electric grid infrastructure in North America.
+   - **CyberArk Resources**:
       - [Strengthening Critical Infrastructure Security](https://www.cyberark.com/resources/ebooks/strengthening-critical-infrastructure-security?utm_source=google&utm_medium=paid_search&utm_term=pam_critical_infrastructure_bm_nam_english_us&utm_content=ebook_strengthening_critical_infrastructure_security_with_pam&utm_campaign=security_privilege_access&gad_source=1&gclid=CjwKCAiA-ty8BhA_EiwAkyoa3--ip7ECTITosrGoyfLKqK5228YwG5NxatUvXhsWm4bHHesHHIDfgRoCScEQAvD_BwE)
 
 ### [HITRUST Common Security Framework (CSF)](https://hitrustalliance.net/)
-    - *Description*: Provides standards for protecting healthcare information.
-    - **CyberArk Resources**:
+   - *Description*: Provides standards for protecting healthcare information.
+   - **CyberArk Resources**:
       - [CyberArk Security Frameworks and Regulatory Standards](https://docs.cyberark.com/digital-blueprint/latest/en/content/cybersecurity-frameworks-regulatory-standards.htm?TocPath=Program%20development%20guidance%7C_____2)
       - [NERC CIP and CyberArk Security](https://docs.cyberark.com/pam-self-hosted/latest/en/content/security/nerc%20cip%20introduction.htm)
 
@@ -109,6 +109,7 @@
 ### [FIPS Compliance](https://docs.cyberark.com/pam-self-hosted/latest/en/content/security/fips-compliance.htm)
 
 ### [CyberArk Privacy and Data Protection Customer FAQs](https://www.cyberark.com/privacy-and-data-protection-faqs/)
+
 ---
 
 ### Notes:
