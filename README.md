@@ -48,7 +48,7 @@ Maintained by Eli Hopkins, [@IAM-Jah](https://github.com/IAM-Jah). Contact infor
 
 ## Acknowledgements
 
-Thank you for utilizing the CyberArk Program Acceptance Toolkit. We hope these resources prove valuable in your efforts to drive user adoption and engagement within your CyberArk programs.
+Thank you for utilizing the CyberArk Program Acceptance Toolkit. I hope these resources prove valuable in your efforts to drive user adoption and engagement within your CyberArk programs.
 
 ## License
 
