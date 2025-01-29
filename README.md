@@ -2,6 +2,10 @@
 
 Welcome to the CyberArk Program Acceptance Toolkit! This repository offers a comprehensive collection of resources designed to assist CyberArk Administrators and Program Managers in promoting user adoption and engagement.
 
+## Read the article for background!
+
+This repository is a supporting resource to my article titled ["Winning Hearts and Minds: Driving User Acceptance in PAM Programs"](https://www.linkedin.com/pulse/winning-hearts-minds-driving-user-acceptance-pam-hopkins-cissp-qipic). For context on why certain materials were included, or how to utilize them in your own PAM program, go read the article and reach out if you still have questions.
+
 ## Repository Structure
 
 The repository is organized into the following directories:
